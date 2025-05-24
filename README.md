@@ -13,7 +13,7 @@ The dataset used in this project is the [Amazon Fine Food Reviews](https://www.k
 
 ## Tools and technical skills
 
-- **Python**: 
+- **Python**
 - **technical skills for assignment**:
  AWS service: S3, Recognition, Sagemaker
  
@@ -64,13 +64,10 @@ MLAWS_course/
 ## Usage
 
 You can open any notebook in the `notebooks/` folders to review the work. PDF and HTML versions are also available for easier preview.
-
-## Installation
-
 To install dependencies:
 ```bash
 pip install -r requirements.txt
-
+```
 
 ## Contact Information
 

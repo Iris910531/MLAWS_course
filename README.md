@@ -32,7 +32,10 @@ MLAWS_course/
 │
 ├── README.md
 ├── AWS_Rekognition/ – Folder containing one assignment using AWS Rekognition and S3.
-│   ├── data/
+│   ├── data/   
+│        ├── cat/ – image used in training model on AWS
+│        ├── dog/ – image used in training model on AWS
+│        ├── unseen/ – image used in evaluating model
 │   ├── notebooks/ contains .ipynb and .pdf versions of the code for easy review.   
 │        ├── cv_pipeline.ipynb
 │        ├── cv_pipeline.pdf
@@ -40,7 +43,6 @@ MLAWS_course/
 │   └── report/   – Folder containing the project report details in .pdf format.
 │
 ├── AWS_Sagemaker/  –  Folder containing one assignment using AWS Sagemaker and S3.
-│   ├── data/
 │   ├── notebooks/  – contains .ipynb, .html, and .pdf versions of the code for easy review.   
 │        ├── YiHsuan_SageMaker_regression.html
 │        ├── YiHsuan_SageMaker_regression.ipynb

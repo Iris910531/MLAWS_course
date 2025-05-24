@@ -17,7 +17,7 @@ The dataset used in this project is the [Amazon Fine Food Reviews](https://www.k
 - **technical skills for assignment**:
  AWS service: S3, Recognition, Sagemaker
  
-**technical skills for project**
+- **technical skills for project**
 1. Data Preprocessing: Text cleaning (stopword removal, lemmatization), TF-IDF vectorization, dimensionality reduction (TruncatedSVD), and standardization using StandardScaler.
 2. Semantic Analysis: Used a pre-trained Sentence-BERT model (all-MiniLM-L6-v2) to compute cosine similarity between reviews for representativeness scoring.
 3. Modeling: Applied XGBoost Classifier to predict HelpfulBinary using combined textual and metadata features. Addressed class imbalance using scale_pos_weight.

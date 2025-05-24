@@ -73,5 +73,5 @@ pip install -r requirements.txt
 
 For any further questions or collaboration opportunities, please reach out to me at:
 - Email: [yguo8395@gmail.com](mailto:yguo8395@gmail.com)
-- LinkedIn: [Iris Kuo](https://www.linkedin.com/in/yi-hsuan-kuo-835b00268/))
+- LinkedIn: [Iris Kuo](https://www.linkedin.com/in/yi-hsuan-kuo-835b00268/)
 - GitHub: [Iris Kuo](https://github.com/Iris910531)

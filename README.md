@@ -6,8 +6,9 @@ This is my assignment and project for the Machine Learning Cloud  course I took 
 
 ## Data Source
 
-The dataset consists of Amazon product reviews from kaggle, with fields including review text, timestamp, score, and helpfulness information (numerator and denominator).
-[Amazon Fine Food Reviews](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews)
+The dataset used in this project is the [Amazon Fine Food Reviews](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews) from Kaggle. It contains Amazon product reviews, including fields such as review text, timestamp, rating score, and helpfulness (numerator and denominator).
+
+⚠️ Note: The original CSV file (Reviews.csv) is 286.97 MB and exceeds GitHub’s 100 MB upload limit, so it is not included in this repository. Please download it manually from Kaggle if needed.
 
 
 ## Tools and technical skills
